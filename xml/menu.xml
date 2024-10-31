@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item>
+    <name>Beetroot and Feta Salad</name>
+    <description>Fresh beetroot, creamy feta cheese, mixed greens, and a light vinaigrette.</description>
+    <price>15.00</price>
+    <category>food</category>
+    <image>images/beetroot_salad.jpg</image>
+  </item>
+  <item>
+    <name>Sourdough Rye Sandwich</name>
+    <description>Toasted sourdough rye, smoked turkey, Swiss cheese, and fresh vegetables.</description>
+    <price>18.00</price>
+    <category>food</category>
+    <image>images/sourdough_sandwich.jpg</image>
+  </item>
+  <item>
+    <name>Spinach Pie and Salad</name>
+    <description>Savory pie filled with fresh spinach, feta, and herbs, served with a side salad.</description>
+    <price>20.00</price>
+    <category>food</category>
+    <image>images/spinach_pie.jpg</image>
+  </item>
+  <item>
+    <name>Feta Pancakes with Salad</name>
+    <description>Fluffy pancakes made with feta cheese, served with a garden salad.</description>
+    <price>19.50</price>
+    <category>food</category>
+    <image>images/feta_pancakes.jpg</image>
+  </item>
+  <item>
+    <name>Cappuccino</name>
+    <description>Freshly brewed espresso with steamed milk and foam.</description>
+    <price>5.00</price>
+    <category>beverage</category>
+    <image>images/cappuccino.jpg</image>
+  </item>
+  <item>
+    <name>Latte</name>
+    <description>Smooth espresso with steamed milk and a touch of foam.</description>
+    <price>5.50</price>
+    <category>beverage</category>
+    <image>images/latte.jpg</image>
+  </item>
+  <item>
+    <name>Fresh Orange Juice</name>
+    <description>Refreshing orange juice squeezed from ripe oranges.</description>
+    <price>6.50</price>
+    <category>beverage</category>
+    <image>images/orange_juice.jpg</image>
+  </item>
+  <item>
+    <name>Green Tea</name>
+    <description>Aromatic green tea, known for its relaxing properties.</description>
+    <price>4.00</price>
+    <category>beverage</category>
+    <image>images/green_tea.jpg</image>
+  </item>
+</menu>
